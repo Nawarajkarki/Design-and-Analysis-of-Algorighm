@@ -1,4 +1,4 @@
-def fibonacci(n):
+def fibonacci(n) -> list:
     fibonacci_list = [0, 1]
     first_term = 0
     second_term = 1
