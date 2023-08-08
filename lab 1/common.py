@@ -1,6 +1,5 @@
 def swap(a,b) -> int:
-    b, a = a, b
-    return a, b
+    return b, a
 
 
     
