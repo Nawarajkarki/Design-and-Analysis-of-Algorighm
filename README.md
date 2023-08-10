@@ -1,9 +1,9 @@
 <h1>Design and Analysis of Algorithms</h1>
 
 <h3> Welcome to the **Design and Analysis of Algorithms** repository! </h3>
-This repository contains Python programs of various algorithms taught in the course Design and Analysis of Algorithms.
+This repository contains Python programs of various algorithms taught in the course "Design and Analysis of Algorithms".
 
-Whether you're a student studying algorithms or someone interested in algorithmic techniques, you'll find a variety of well-documented algorithms here.
+Whether you're a student studying this subject or someone interested in algorithmic techniques, you'll find a variety of well-documented algorithms here.
 
 <h1> Algorithms </h1>
 <h3>The algorithms covered in this repository are:</h3>
@@ -21,7 +21,7 @@ To run a program, navigate to the folder that contains the program and execute i
 <br>
 
 ```python
-cd sorting
+cd Sorting
 python bubbleSort.py
 
 ```
