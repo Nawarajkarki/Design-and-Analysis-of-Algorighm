@@ -14,7 +14,7 @@ Whether you're a student studying this subject or someone interested in algorith
 </ul>
 
 <h1> Installation </h1>
-To run the programs in this repository, you need to have Python 3 installed on your system. You can download Python 3 from [<a  href="https://www.python.org/downloads/" target="_blank">here</a>].
+To run the programs in this repository, you need to have Python 3 installed on your system. You can download Python 3 from [<a href="https://www.python.org/downloads/" target="_blank">here</a>].
 
 <h1>Usage</h1>
 To run a program, navigate to the folder that contains the program and execute it using Python: <br>
