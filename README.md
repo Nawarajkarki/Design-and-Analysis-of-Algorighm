@@ -9,8 +9,8 @@ Whether you're a student studying this subject or someone interested in algorith
 <h3>The algorithms covered in this repository are:</h3>
 <ul>
   <li>Searching algorithms :- Linear search </li>
-  <li>Sorting algorithms :- Bubble sort, Insertion sort, Selection sort, Merge sort</li>
-  
+  <li>Sorting algorithms :- Bubble sort, Insertion sort, Selection sort</li>
+  <li>Divide & Conquer Algorithms :- Merge sort </li>
 </ul>
 
 <h1> Installation </h1>
