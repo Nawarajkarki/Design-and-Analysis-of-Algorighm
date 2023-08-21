@@ -8,8 +8,8 @@ def mergeSort(a, p, r):
 def merge(a, p, q, r):
     n1 = q - p + 1
     n2 = r - q
-    list1 = [0] * (n1 + 1)
-    list2 = [0] * (n2 + 1)
+    list1 = [0] * (n1 + 1)    # Creates a List with n1+1 elements, with all elemenets being Zero (0)
+    list2 = [0] * (n2 + 1)    # Creates a List with n1+1 elements, with all elemenets being Zero (0)
 
     for i in range(n1):
         list1[i] = a[p + i]
@@ -30,7 +30,7 @@ def merge(a, p, q, r):
             a[k] = list2[j]
             j = j + 1
 
-my_list = [5, 8, 7, 4, 2, 9, 12, 13, 11]
+my_list = [5, 8, 7, 4, 2, 9, 12, 13, 11, 23, 1, -1, -23,34,545]
 n = len(my_list)
 
 mergeSort(my_list, 0, n - 1)
