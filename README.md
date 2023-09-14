@@ -1,9 +1,9 @@
 # Design and Analysis of Algorithms
 
 ### Welcome to the **Design and Analysis of Algorithms** repository! 
-This repository contains Python programs of various algorithms taught in the course "Design and Analysis of Algorithms".
+This repository is a treasure trove of Python programs that demonstrate various algorithms taught in the “Design and Analysis of Algorithms” course, a key subject in the CSIT curriculum.
 
-Whether you're a student studying this subject or someone interested in algorithmic techniques, you'll find a variety of well-documented algorithms here.
+Whether you’re a CSIT student delving into this subject or an algorithm enthusiast exploring new techniques, this repository offers a wide range of well-documented algorithms for you to learn from and experiment with. Enjoy your journey through the fascinating world of algorithms!
 
 ## Algorithms
 ### The algorithms covered in this repository are:</h3>
