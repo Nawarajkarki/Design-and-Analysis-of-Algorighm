@@ -13,5 +13,5 @@
     Nawaraj karki
  -->
 
-- Nishan Nepali - [Github](https://github.com/NishanNepali) - Email :
-  -Devraj Shrestha-[Github](https://github.com/Debaraj-stha)
+- Nishan Nepali - [Github](https://github.com/NishanNepali)
+- Devraj Shrestha - [Github](https://github.com/Debaraj-stha)
