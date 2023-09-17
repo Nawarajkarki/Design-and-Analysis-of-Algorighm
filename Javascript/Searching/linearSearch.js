@@ -1,5 +1,3 @@
-const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-
 const linear_search = (arr, key) => {
   if (Array.isArray(arr)) {
     const search_length = arr.length; //Avoids calculating array length on each iteration
@@ -15,4 +13,5 @@ const linear_search = (arr, key) => {
   }
 };
 
-linear_search(numbers, 6); //Here we are searching for the key "9"
+const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+linear_search(numbers, 6); //Here we are searching for the key "6"

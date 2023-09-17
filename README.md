@@ -1,15 +1,14 @@
 # Design and Analysis of Algorithms
 
-### Welcome to the **Design and Analysis of Algorithms** repository!
+## Welcome to the Design and Analysis of Algorithms repository!
 
-This repository is a treasure trove of Python programs that demonstrate various algorithms taught in the “Design and Analysis of Algorithms” course, a key subject in the CSIT curriculum.
+This repository is a collection of programs in various languages that demonstrate different algorithms taught in the “Design and Analysis of Algorithms” course, a key subject in the CSIT curriculum.
 
 Whether you’re a CSIT student delving into this subject or an algorithm enthusiast exploring new techniques, this repository offers a wide range of well-documented algorithms for you to learn from and experiment with. Enjoy your journey through the fascinating world of algorithms!
 
-## Algorithms
 
-### The algorithms covered in this repository are:
-
+### Algorithms
+**The algorithms covered in this repository are:**
 - Searching algorithms:
   - Linear search
 - Sorting algorithms:
@@ -21,24 +20,30 @@ Whether you’re a CSIT student delving into this subject or an algorithm enthus
   - Merge sort
   - Quick sort
 
-## Installation
 
-To run the programs in this repository, you need to have Python 3 installed on your system. You can download Python 3 from [<a href="https://www.python.org/downloads/" target="_blank">here</a>].
+These algorithms are implemented in multiple languages including Python, JavaScript, C, Go, etc.
+
+## Installation
+To run the programs in this repository, you need to have the respective language runtime installed on your system.
+
+For Python programs, you can download Python 3 from [here](https://www.python.org/downloads/).
+
+For JavaScript programs, you need to have Node.js installed. You can download it from [here.](https://nodejs.org/en)
 
 ## Usage
+To run a program, navigate to the folder that contains the program and execute it using the respective language runtime. For example:
 
-To run a program, navigate to the folder that contains the program and execute it using Python: <br>
-
-```python
-cd Sorting
+**For Python:**
+```
+cd python/Sorting
 python bubbleSort.py
 ```
 
-using Javascript: <br>
 
-```javascript
-cd Sorting
-node linerSearch.js
+**For JavaScript:**
+```
+cd javascript/Sorting
+node bubbleSort.js
 ```
 
 Some programs may require input from the user or from a file. Please follow the instructions given in the comments or on the console.
@@ -62,4 +67,5 @@ We look forward to seeing this repository grow with your contributions.
 ## License
 
 This project is licensed under the MIT License.
+
 Meaning You can do what ever the hell you want with this code.
