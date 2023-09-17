@@ -13,6 +13,7 @@ Whether you’re a CSIT student delving into this subject or an algorithm enthus
     - Bubble sort
     - Insertion sort
     - Selection sort
+    - Quick sort
 - Divide & Conquer Algorithms:
     - Merge sort
     - Quick sort
