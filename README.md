@@ -37,8 +37,16 @@ python bubbleSort.py
 using Javascript: <br>
 
 ```javascript
-cd Sorting
+cd Searching
 node linerSearch.js
+```
+
+using Objective-C: <br>
+
+```objective-c
+cd Searching
+clang -framework Foundation -o linearSearch linearSearch.m
+./linearSearch
 ```
 
 Some programs may require input from the user or from a file. Please follow the instructions given in the comments or on the console.
