@@ -30,8 +30,14 @@ def merge(a, p, q, r):
             a[k] = list2[j]
             j = j + 1
 
-my_list = [5, 8, 7, 4, 2, 9, 12, 13, 11, 23, 1, -1, -23,34,545]
-n = len(my_list)
 
-mergeSort(my_list, 0, n - 1)
-print(my_list)
+def main():
+    my_list = [5, 8, 7, 4, 2, 9, 12, 13, 11, 23, 1, -1, -23,34,545]
+    n = len(my_list)
+
+    mergeSort(my_list, 0, n - 1)
+    print(my_list)
+
+
+if __name__ == '__main__':
+    main()

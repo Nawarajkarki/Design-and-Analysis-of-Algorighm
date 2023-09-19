@@ -9,16 +9,20 @@ Whether you’re a CSIT student delving into this subject or an algorithm enthus
 
 ### Algorithms
 **The algorithms covered in this repository are:**
-- Searching algorithms:
-  - Linear search
-- Sorting algorithms:
-  - Bubble sort
-  - Insertion sort
-  - Selection sort
-  - Quick sort
-- Divide & Conquer Algorithms:
-  - Merge sort
-  - Quick sort
+1. Searching algorithms:
+    - Linear search
+2. Sorting algorithms:
+    - Bubble sort
+    - Insertion sort
+    - Selection sort
+    - Quick sort
+3. Divide & Conquer Algorithms:
+    - Merge sort
+    - Quick sort
+    - Heap sort
+    - Min-Max Finding
+        - Divide & Conquer approach
+        - Iterative method
 
 
 These algorithms are implemented in multiple languages including Python, JavaScript, C, Go, etc.
