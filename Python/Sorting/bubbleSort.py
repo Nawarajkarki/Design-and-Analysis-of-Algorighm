@@ -9,12 +9,18 @@ def bubbleSort(arr, n) -> list:
             break
     return arr
 
-my_list = [5,8,7,4,2,9,12,13,11]
-n = len(my_list)
 
-# Make a copy of the original unsorted list
-unsorted_list = my_list.copy()
+def main():
+    my_list = [5,8,7,4,2,9,12,13,11]
+    n = len(my_list)
 
-Sorted_list = bubbleSort(my_list, n)
-print(f"UnSorted list/Array {unsorted_list}")
-print(f"Sorted list/Array   {Sorted_list}")
+    # Make a copy of the original unsorted list
+    unsorted_list = my_list.copy()
+
+    Sorted_list = bubbleSort(my_list, n)
+    print(f"UnSorted list/Array {unsorted_list}")
+    print(f"Sorted list/Array   {Sorted_list}")
+
+
+if __name__ == '__main__':
+    main()

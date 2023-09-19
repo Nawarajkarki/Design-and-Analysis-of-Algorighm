@@ -25,9 +25,13 @@ def quicksort(arr, p, r):
     
     return arr
 
+def main():
+    my_list = [5, 8, 7, 4, 2, 9, 12, 13, 11, 23, 1, -1, -23, 34, 545]
+    n = len(my_list)
 
-my_list = [5, 8, 7, 4, 2, 9, 12, 13, 11, 23, 1, -1, -23, 34, 545]
-n = len(my_list)
+    quicksort(my_list, 0, n - 1)
+    print(my_list)
 
-quicksort(my_list, 0, n - 1)
-print(my_list)
+
+if __name__ == "__main__":
+    main()

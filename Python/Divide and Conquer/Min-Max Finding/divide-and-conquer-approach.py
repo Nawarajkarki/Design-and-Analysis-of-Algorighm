@@ -28,12 +28,12 @@ def min_max(my_list, p, r):
     return min, max
 
 
-
-my_list = [5, 8, 7, 4, 2, 9, 12, 13, 11, 23, 1, -1, -23, 34, 545]
-l = len(my_list)
-
-min, max = min_max(my_list, 0, l-1)
-
-print(f"min = {min}, max = {max}")
+def main():
+    my_list = [5, 8, 7, 4, 2, 9, 12, 13, 11, 23, 1, -1, -23, 34, 545]
+    l = len(my_list)
+    min, max = min_max(my_list, 0, l-1)
+    print(f"min = {min}, max = {max}")
 
 
+if __name__ == "__main__":
+    main()
