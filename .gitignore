@@ -1,7 +1,11 @@
-__pycache__
-
-
+# vscode 
 .vscode
 tempCodeRunnerFile
+
+
+# python
 tempCodeRunnerFile.py
-lab 1
+__pycache__
+
+# c
+*.exe
