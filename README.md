@@ -11,11 +11,11 @@ Whether you’re a CSIT student delving into this subject or an algorithm enthus
 **The algorithms covered in this repository are:**
 1. Searching algorithms:
     - Linear search
+    - Binary search
 2. Sorting algorithms:
     - Bubble sort
     - Insertion sort
     - Selection sort
-    - Quick sort
 3. Divide & Conquer Algorithms:
     - Merge sort
     - Quick sort
