@@ -25,7 +25,7 @@ def linear_search(my_list, key):
 # Define the main function
 def main():
     # Initialize the array and the key to be searched
-    my_list = [1, 2, 3, 4, 7, 9, 15, 67]
+    my_list = [1, 4, 8, 11, 17, 29, 35, 37, 44, 61]
     key = int(input("Enter key to be searched:\t"))
 
     # Perform linear search on the array for the given key
